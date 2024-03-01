@@ -43,6 +43,12 @@
 			<version>10.0.21</version>
 		</dependency>
 
+		<dependency>
+			<groupId>org.apache.tomcat.embed</groupId>
+			<artifactId>tomcat-embed-core</artifactId>
+			<version>10.0.21</version>
+		</dependency>
+
 		<!-- Nødvendig for at databasegreier skal fungere -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
