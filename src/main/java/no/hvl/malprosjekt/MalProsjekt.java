@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MalProsjekt {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(MalProsjekt.class, args);
 	}
 
