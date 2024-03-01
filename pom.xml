@@ -19,7 +19,7 @@
 	<description>En enkel webapp som lar bruker jobbe med en database via GET/POST requests </description>
 
 	<properties>
-		<java.version>17</java.version>
+		<java.version>17.0.4</java.version>
 	</properties>
 
 	<dependencies>
@@ -40,7 +40,7 @@
 		<dependency>
 			<groupId>org.apache.tomcat.embed</groupId>
 			<artifactId>tomcat-embed-jasper</artifactId>
-			<version>10.0.0</version>
+			<version>10.0.21</version>
 		</dependency>
 
 		<!-- Nødvendig for at databasegreier skal fungere -->
