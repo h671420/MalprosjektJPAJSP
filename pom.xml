@@ -40,7 +40,7 @@
 		<dependency>
 			<groupId>org.apache.tomcat.embed</groupId>
 			<artifactId>tomcat-embed-jasper</artifactId>
-			<version>10.1.11</version>
+			<version>10.0.0</version>
 		</dependency>
 
 		<!-- Nødvendig for at databasegreier skal fungere -->
